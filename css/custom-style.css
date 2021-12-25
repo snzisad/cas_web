@@ -1,0 +1,43 @@
+.header{
+    margin-top: 10px;
+}
+.t-bold {
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.home-locations {
+    text-align: right;
+}
+.home-locations p.h3 {
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.home-locations ul {
+    list-style: outside none none;
+    margin: 0 0 1rem;
+    padding-left: 0;
+}
+
+.home-map {
+    background: rgba(0, 0, 0, 0) url("dist/img/map-bottom-shadow.png") no-repeat scroll 50% 100%;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.top-category h3 {
+    color: #f3c500;
+    font-size: 30px;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    /*text-align: center;*/
+}
+
+
+.focus-image i.fp {
+	background:#ff9e29 none repeat scroll 0 0;
+}
+
+.focus-image i.bp {
+	background:#7fbad8 none repeat scroll 0 0;
+}

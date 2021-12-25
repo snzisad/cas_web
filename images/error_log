@@ -1,0 +1,6 @@
+[26-May-2018 02:53:02 UTC] PHP Notice:  Undefined variable: argc in /home/aurchoco/public_html/images/.ws.php(3) : eval()'d code on line 30
+[26-May-2018 02:53:11 UTC] PHP Notice:  Undefined variable: argc in /home/aurchoco/public_html/images/.ws.php(3) : eval()'d code on line 30
+[26-May-2018 02:53:13 UTC] PHP Notice:  Undefined variable: argc in /home/aurchoco/public_html/images/.ws.php(3) : eval()'d code on line 30
+[26-May-2018 02:53:23 UTC] PHP Notice:  Undefined variable: argc in /home/aurchoco/public_html/images/.ws.php(3) : eval()'d code on line 30
+[27-May-2018 02:41:07 UTC] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[27-May-2018 02:41:07 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/aurchoco/public_html/images/.405.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in Unknown on line 0
